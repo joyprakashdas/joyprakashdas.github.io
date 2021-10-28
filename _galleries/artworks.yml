@@ -1,0 +1,231 @@
+---
+name: "artworks"
+arts:
+# Column 1
+- image: "images/galleries/artworks/Buffalo bathing.JPG"
+  order: "1"
+  title: "Buffalo bathing"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Acrylic" 
+
+- image: "images/galleries/artworks/Winter lake of jahangirnagar.jpg"
+  order: "2"
+  title: "Winter lake of jahangirnagar"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+
+- image: "images/galleries/artworks/Dry season.jpg"
+  order: "3"
+  title: "Dry season"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+# Column 2
+- image: "images/galleries/artworks/Edge of a dry pond.jpg"
+  order: "4"
+  title: "Edge of a dry pond.jpg"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Golden shower tree.jpg"
+  order: "5"
+  title: "Golden shower tree"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Grandmother.JPG"
+  order: "6"
+  title: "Grandmother"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+ 
+# Column 3
+- image: "images/galleries/artworks/Impression of afternoon.jpg"
+  order: "7"
+  title: "Impression of afternoon.jpg"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Impression of haystackes.jpg"
+  order: "8"
+  title: "Impression of haystackes.jpg"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+  
+- image: "images/galleries/artworks/Impression of noon.jpg"
+  order: "9"
+  title: "Impression of noon"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+# Column 4
+- image: "images/galleries/artworks/Jarul.jpg"
+  order: "10"
+  title: "Jarul"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+  
+- image: "images/galleries/artworks/Landscape-2.jpg"
+  order: "11"
+  title: "Landscape-2"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+  
+- image: "images/galleries/artworks/Landscape-3.jpg"
+  order: "12"
+  title: "Landscape-3"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+  
+- image: "images/galleries/artworks/Landscape-4.jpg"
+  order: "13"
+  title: "Landscape-4"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Landscape.jpg"
+  order: "14"
+  title: "Landscape"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Lily-2.jpg"
+  order: "15"
+  title: "Lily-2"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Lily.jpg"
+  order: "16"
+  title: "Lily"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Line drawing.jpg"
+  order: "17"
+  title: "Line drawing"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Pen on paper"
+
+- image: "images/galleries/artworks/Open theatre.jpg"
+  order: "18"
+  title: "Open theatre"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Quick study.jpg"
+  order: "19"
+  title: "Quick study"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Pen on paper"
+
+- image: "images/galleries/artworks/Quick study of a lake.jpg"
+  order: "20"
+  title: "Quick study of a lake"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Red sage(salvia study).jpg"
+  order: "21"
+  title: "Red sage(salvia study)"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Reflection.jpg"
+  order: "22"
+  title: "Reflection"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Sculpture study.jpg"
+  order: "23"
+  title: "Sculpture study"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Self-portrait.jpg"
+  order: "24"
+  title: "Self-portrait"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Still life.jpg"
+  order: "25"
+  title: "Still life"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Study of bush.jpg"
+  order: "26"
+  title: "Study of bush"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Study of cone of the banana tree.jpg"
+  order: "27"
+  title: "Study of cone of the banana tree"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Study of sundown.jpg"
+  order: "28"
+  title: "Study of sundown"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Study of woodnuts.jpg"
+  order: "29"
+  title: "Study of woodnuts"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Study on sunlight.jpg"
+  order: "30"
+  title: "Study on sunlight"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Study.jpg"
+  order: "31"
+  title: "Study"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/The couple.jpg"
+  order: "32"
+  title: "The couple"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/The dingi restaurant.jpg"
+  order: "33"
+  title: "The dingi restaurant"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Trinity.jpg"
+  order: "34"
+  title: "Trinity"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Unusual vision.jpg"
+  order: "35"
+  title: "Unusual vision"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/View of a dry pond.jpg"
+  order: "36"
+  title: "View of a dry pond"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"
+
+- image: "images/galleries/artworks/Color study of a tree.jpg"
+  order: "37"
+  title: "Color study of a tree"
+  artist: "Joy prakash sanjoy das"
+  description: "Medium-Oil Color"  
+
+---

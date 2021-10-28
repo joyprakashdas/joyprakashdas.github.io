@@ -1,0 +1,14 @@
+- title: "artworks"
+  href: "/"
+  
+- title: "writings"
+  href: "/writings/"
+
+- title: "about"
+  href: "/about/"
+  
+- title: "contact"
+  href: "/contact/"
+
+- title: "commissioned work"
+  href: "/commissioned-work/"
