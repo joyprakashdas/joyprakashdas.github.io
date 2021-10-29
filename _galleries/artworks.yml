@@ -43,13 +43,13 @@ arts:
 # Column 3
 - image: "images/galleries/artworks/Impression of afternoon.jpg"
   order: "7"
-  title: "Impression of afternoon.jpg"
+  title: "Impression of afternoon"
   artist: "Joy prakash sanjoy das"
   description: "Medium-Oil Color"
 
 - image: "images/galleries/artworks/Impression of haystackes.jpg"
   order: "8"
-  title: "Impression of haystackes.jpg"
+  title: "Impression of haystackes"
   artist: "Joy prakash sanjoy das"
   description: "Medium-Oil Color"
   
